@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Карта сайта для поисковиков: каждая страница на двух языках (hreflang). Новая страница — добавить пару <url> сюда. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://spisusha.com/</loc><xhtml:link rel="alternate" hreflang="ru" href="https://spisusha.com/"/><xhtml:link rel="alternate" hreflang="en" href="https://spisusha.com/en/"/></url>
+  <url><loc>https://spisusha.com/en/</loc><xhtml:link rel="alternate" hreflang="ru" href="https://spisusha.com/"/><xhtml:link rel="alternate" hreflang="en" href="https://spisusha.com/en/"/></url>
+  <url><loc>https://spisusha.com/about/</loc><xhtml:link rel="alternate" hreflang="ru" href="https://spisusha.com/about/"/><xhtml:link rel="alternate" hreflang="en" href="https://spisusha.com/en/about/"/></url>
+  <url><loc>https://spisusha.com/en/about/</loc><xhtml:link rel="alternate" hreflang="ru" href="https://spisusha.com/about/"/><xhtml:link rel="alternate" hreflang="en" href="https://spisusha.com/en/about/"/></url>
+  <url><loc>https://spisusha.com/projects/si-phone/</loc><xhtml:link rel="alternate" hreflang="ru" href="https://spisusha.com/projects/si-phone/"/><xhtml:link rel="alternate" hreflang="en" href="https://spisusha.com/en/projects/si-phone/"/></url>
+  <url><loc>https://spisusha.com/en/projects/si-phone/</loc><xhtml:link rel="alternate" hreflang="ru" href="https://spisusha.com/projects/si-phone/"/><xhtml:link rel="alternate" hreflang="en" href="https://spisusha.com/en/projects/si-phone/"/></url>
+  <url><loc>https://spisusha.com/projects/tenders/</loc><xhtml:link rel="alternate" hreflang="ru" href="https://spisusha.com/projects/tenders/"/><xhtml:link rel="alternate" hreflang="en" href="https://spisusha.com/en/projects/tenders/"/></url>
+  <url><loc>https://spisusha.com/en/projects/tenders/</loc><xhtml:link rel="alternate" hreflang="ru" href="https://spisusha.com/projects/tenders/"/><xhtml:link rel="alternate" hreflang="en" href="https://spisusha.com/en/projects/tenders/"/></url>
+  <url><loc>https://spisusha.com/projects/spisusha/</loc><xhtml:link rel="alternate" hreflang="ru" href="https://spisusha.com/projects/spisusha/"/><xhtml:link rel="alternate" hreflang="en" href="https://spisusha.com/en/projects/spisusha/"/></url>
+  <url><loc>https://spisusha.com/en/projects/spisusha/</loc><xhtml:link rel="alternate" hreflang="ru" href="https://spisusha.com/projects/spisusha/"/><xhtml:link rel="alternate" hreflang="en" href="https://spisusha.com/en/projects/spisusha/"/></url>
+</urlset>
